@@ -1,0 +1,25 @@
+body {
+  background-color: aqua;
+}
+
+img {
+  height: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  border-radius: 200px;
+}
+
+.name {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 0;
+}
+
+.email {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20;
+}
